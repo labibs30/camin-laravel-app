@@ -14,9 +14,16 @@ List fitur pada aplikasi ini adalah sebagai berikut.
 6. Mendapatkan informasi pendapatan berdasarkan range tertentu
 
 ## Tampilan Aplikasi
-(screenshot fitur aplikasi)
-### Fitur 1: ...
-(screenshot fitur 1)
-### Fitur 2: ...
+Tampilan Awal (Sementara)
+![Test Image 1](/screenshot/pic1.jpg)
+### Fitur 1: Menambah Produk
+![Test Image 1](/screenshot/pic2.jpg)
+### Fitur 2: Mengedit Produk
+![Test Image 1](/screenshot/pic3.jpg)
+### Fitur 3: Menghapus Produk
+![Test Image 1](/screenshot/pic4.jpg)
+### Fitur 4: ...
 (screenshot fitur 2)
-### Dst
+### Dst 
+
+
