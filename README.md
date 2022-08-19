@@ -56,10 +56,14 @@ Tampilan
 ![Test Image 1](/screenshot/admincheckout.png)
 
 ### Fitur 8: Halaman Customer
-![Test Image 1](/screenshot/userindex.png)
+1. Halaman atas
 
-### Fitur 9: Halaman Customer single product
 ![Test Image 1](/screenshot/userindex.png)
+2. Halaman bawah
+
+![Test Image 1](/screenshot/userindex2.png)
+### Fitur 9: Halaman Customer single product
+![Test Image 1](/screenshot/usersingle.png)
 
 ### Fitur 10: Halaman Customer tata cara pesan
-![Test Image 1](/screenshot/userindex.png)
+![Test Image 1](/screenshot/tatacarapesan.png)
